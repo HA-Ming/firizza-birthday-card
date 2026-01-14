@@ -5,7 +5,7 @@ export default function App() {
   // ===== EDIT THESE SECTIONS =====
   const birthdayName = "Firizza";
   
-  const birthdayWish = `Happy Birthday frfrfr.
+  const birthdayWish = `Happy Birthday Firizza.
 
 You somehow make even the most random moments fun, your unhinged jokes and whimsical demeanor cheer me up every time, without fail. From late-night conversations to spontaneous plans that don’t always make sense, every memory with you ends up meaning more than I expect.
 
